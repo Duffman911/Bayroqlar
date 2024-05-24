@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(201, 185, 167);
+}
+#russian{
+    width: 180px;
+    height: 40px;
+    border-top: 40px solid white;
+    border-bottom: 40px solid #d52b1e;
+    background-color: #0039a6;
+}
+#avstriya{
+    width: 125px;
+    height: 25px;
+    border-top: 25px solid red;
+    border-bottom: 25px solid red;
+    background-color: #ffffff;
+}
+#poland{
+    width: 160px;
+    height: 0px;
+    border-top: 50px solid #ffffff;
+    border-bottom: 50px solid rgb(151, 8, 8);
+}
+#litva{
+    width: 180px;
+    height: 40px;
+    border-top: 40px solid orange;
+    border-bottom: 40px solid rgb(151, 8, 8);
+    background-color:green ;
+}
+#latviya{
+    width: 180px;
+    height: 40px;
+    border: solid #9d2235;
+    border-width: 60px 0;
+    background: #fff;
+    
+}
+#italy{
+    width: 100px;
+    height: 180px;
+    border-right: 100px solid red;
+    border-left: 100px solid green;
+    background: #fff;
+
+}
