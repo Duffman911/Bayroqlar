@@ -44,3 +44,18 @@ body{
     background: #fff;
 
 }
+#chexiya{
+   height: 0;
+   width: 150px;
+   border-top: solid 100px #ffffff;
+   border-bottom: solid 100px red;
+   border-left: solid 80px blue;
+    
+}
+#arman{
+    width: 180px;
+    height: 40px;
+    border-top: 40px solid red;
+    border-bottom: 40px solid orange;
+    background-color:blue ;
+}
